@@ -1,6 +1,7 @@
-# Runescape Price Forecasting
+# Runescape Price Forecasting 
 
-![Runescape Logo](runescape_logo.png)
+![Runescape Logo](https://www.runescape.com/img/rsp777/social-share-fb.jpg?1)
+![Runescape Logo](https://repository-images.githubusercontent.com/158813644/a9223500-6bfd-11e9-9288-15d5c662f2f1)
 
 Hi there,
 
