@@ -1,5 +1,5 @@
 # Hi there,  
 # This is a project about forecasting prices in a MMORPG game called Runescape.
 # The code contains a self made script to crawl into a certain website and gather information regarding items.
-# The data collected is stored into a csv file and then, after cleaning the raw data and making it useful, using machine learning algorithms
-# in order to forecast future prices in game.
+# The data collected is stored into a csv file and then, after cleaning the raw data and making it useful, 
+# using machine learning algorithms in order to forecast future prices in game.
