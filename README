@@ -35,12 +35,3 @@ The project repository is organized as follows:
 - `docs/`: Documentation and additional project resources.
 
 Feel free to explore the repository and dive into the code and notebooks to understand the implementation details.
-
-## Getting Started
-
-To get started with the project, follow these steps:
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/runescape-price-forecasting.git
