@@ -1,7 +1,8 @@
 Hi there,  
- This is a project about forecasting prices in a MMORPG game called Runescape.
- The code contains a self made script to crawl into a certain website and gather 
- information regarding items.
- The data collected is stored into a csv file and then, after cleaning the
- raw data and making it useful,
- using machine learning algorithms in order to   forecast future prices in game.
+This is a comprehensive project focused on forecasting prices in the popular MMORPG game called Runescape. The project involves developing a custom script that utilizes web crawling techniques to extract information from a specific website dedicated to tracking in-game items and their prices.
+
+The script is designed to crawl the website and gather relevant data about various items in Runescape. The collected data is then stored in a CSV file for further analysis. To ensure accurate predictions, the raw data is processed and cleaned to remove any inconsistencies or irrelevant information, making it suitable for analysis.
+
+Once the data is prepared, machine learning algorithms are employed to train models capable of forecasting future prices in the game. These algorithms leverage historical price data, item characteristics, and potentially other relevant features to generate predictions. Common machine learning techniques, such as regression or time series analysis, may be applied to develop accurate forecasting models.
+
+The ultimate goal of this project is to provide valuable insights into the future price trends of in-game items in Runescape. By utilizing machine learning algorithms, players and traders can make informed decisions about buying, selling, or investing in different items based on projected price fluctuations. This project combines web scraping, data processing, and machine learning techniques to enable more effective decision-making within the game's economy.
